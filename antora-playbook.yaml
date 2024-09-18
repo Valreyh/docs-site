@@ -1,0 +1,11 @@
+site:
+  title: Antora Docs
+  start_page: newPage::newPage.adoc
+content:
+  sources:
+    - url: C:\Users\Utilisateur\Desktop\Cours Master\M1\Conception Logiciel\TP\Antora\docs-site\pages
+      start_path: .
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
