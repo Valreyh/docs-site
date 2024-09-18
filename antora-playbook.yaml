@@ -1,6 +1,6 @@
 site:
   title: Antora Docs
-  start_page: newPage::index.adoc
+  start_page: component-test::index.adoc
 content:
   sources:
     - url: https://github.com/Valreyh/docs-site.git
