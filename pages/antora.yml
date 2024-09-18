@@ -2,4 +2,4 @@ name: newPage
 title: New Page
 version: 1.0
 nav:
-- ./newPage.adoc
+- modules/nav.adoc
