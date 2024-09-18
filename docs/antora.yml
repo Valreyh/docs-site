@@ -1,5 +1,5 @@
-name: newPage
-title: New Page
+name: component-test
+title: Component Test Antora
 version: 1.0
 nav:
 - modules/nav.adoc
